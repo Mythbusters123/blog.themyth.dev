@@ -75,7 +75,6 @@ blog/index.html: $(ARTICLES) $(TAGFILES) $(addprefix templates/,$(addsuffix .htm
 		URL="@$$t.html" \
 		envsubst < templates/tag_entry.html; \
 		first=false; \
-		printf 'e'\
 	done >> $@; \
 	envsubst < templates/tag_list_footer.html >> $@; \
 	envsubst < templates/article_list_header.html >> $@; \
