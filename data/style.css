@@ -12,6 +12,8 @@ body {
 .landchad {
 	width: 88px;
 	height: 31px;
+	float: left;
+	align-items: center;
 }
 
 a {
