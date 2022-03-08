@@ -19,6 +19,12 @@ a:visited {
 	color: gray ;
 }
 
+img {
+	max-width: 90%;
+	margin: auto;
+	display: block;
+}
+
 h1 {
 	text-align: center ;
 }
