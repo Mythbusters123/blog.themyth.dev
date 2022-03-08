@@ -1,6 +1,6 @@
 The worst blog you have ever seen!
 
-Not really, it follows the principles of [The RealWeb](https://motherfuckingwebsite.com).  
+Not really, it follows the principles of [The Real Web](https://motherfuckingwebsite.com).  
 As a self proclaimed Linux minimalist
 with a ton of exceptions, I try to follow with the minimalist  principles as
 much as possible. Some things I cannot live without, but I do my best to have
