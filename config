@@ -1,1 +1,3 @@
 BLOG_REMOTE:=blog.themyth.dev:/var/www/blog/html
+BLOG_TITLE:=Myth's blog
+BLOG_DESCRIPTION:=

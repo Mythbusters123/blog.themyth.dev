@@ -12,6 +12,9 @@ a {
 	color: lightblue ;
 }
 
+.description {
+	text-align: center;
+}
 a:visited {
 	color: gray ;
 }
