@@ -18,3 +18,39 @@ now anyway. When I build a NAS, that should all be taken care of.
 But its not just a distro switch I want (really need) to do. I dual boot
 Windows, for school and other purposes, and that install is also getting heavily
 bloated, by the day (that I use it, which is like 2 days/week).
+
+The next issue is all my SSH and GnuPG keys, which are scattered across VMs and
+home folders and in random archives saved on my 2TB HDD (which I can't even
+write to on Linux, thanks Optane). Just to add to the confusion, Google Drive
+has a tendency to rename any file you come across that doesn't have an extension
+with .txt (yes, even executables too, don't ask me how they did that). This can
+easily be solved, all you have to do it archive it (I prefer .tar.xz or .tar.gz
+because Google is absolutely retarded and can't read DRM content if its in the
+XZ compression format...) and then ship it off to Google Drive, which in some
+cases is easier as it takes (probably placebo) less time to upload. However, it
+just adds one more step to the already complicated process that I wish I didn't
+spent this much time on.
+
+Passwords are another issue. Frankly, I'm torn. I want to use [Passky](https://github.com/Rabbit-Company/Passky-Server)
+because you can easily self-host it, but the only thing that I can really use to
+self-host is a Raspberry Pi that does no backing-up in any sort and I'd rather not
+lose all of my passwords to a hardware failure. This is what is pushing me towards
+[Bit Warden](https://bitwarden.com) but because you have to pay for certain functionality
+that should just be included in the vanilla plan (I'm looking at you, Emergency Access) it
+just seems off. I get it, companies need to make money; but basic features shouldn't be locked
+behind a paywall, thats mobile-game territory.
+
+A smaller, but more recent issue I have is that when I was installing my Arch system
+I foolishly (kinda) split up my `/home` and `/` partitions. This is useful in some
+cases, mostly where your system breaks and you do not want to lose all of your files,
+but when you have really big files you want to install (ISOs, games) and then your home 
+folder fills up faster than your mom last night. 500GB was a great size for an SSD that
+I bought, but the fact that I cannot dump a lot of things onto my NTFS drive (thanks again,
+optane) I am forced to use Windows.
+
+Windows is not the complete bane of my existence, however. I use LTSC, which is basically
+de-bloated Windows by Microsoft, and then 
+If I ever get a CDN up (which I probably will)
+
+
+;tags: blog rant
