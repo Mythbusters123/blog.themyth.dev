@@ -17,7 +17,8 @@ now anyway. When I build a NAS, that should all be taken care of.
 
 But its not just a distro switch I want (really need) to do. I dual boot
 Windows, for school and other purposes, and that install is also getting heavily
-bloated, by the day (that I use it, which is like 2 days/week).
+bloated, by the day (that I use it, which is like 2 days/week). Do I wish that
+I had to dual boot Windows? Absolutely not! Bu
 
 The next issue is all my SSH and GnuPG keys, which are scattered across VMs and
 home folders and in random archives saved on my 2TB HDD (which I can't even
@@ -49,8 +50,17 @@ I bought, but the fact that I cannot dump a lot of things onto my NTFS drive (th
 optane) I am forced to use Windows.
 
 Windows is not the complete bane of my existence, however. I use LTSC, which is basically
-de-bloated Windows by Microsoft, and then 
-If I ever get a CDN up (which I probably will)
+de-bloated Windows by Microsoft, and then de-bloat it some more, thanks ChrisCitrusTech.
+If I ever get a CDN up (which I probably will) I will totally not upload the ISOs I use 
+because they totally aren't illegal. But Windows LTSC is so efficient that it uses 3% cpu
+after Windows does all its starting up stuff that doesn't even work most of the time. I have
+this issue where my clock is always five hours ahead, and I HAVE to run `w32tm /resync` every
+time I need to sync my clock, which is a whole issue because I need to set my terminal
+as Administrator and it just takes so many GUI's to do. I might install the `sudo` applet
+but I'm not too sure if that would change much. I do not know exactly how it works and might
+be too little for much effort.
+
+Well, thats my first real blog without any resolution to any problem, should be more soon!
 
 
 ;tags: blog rant
