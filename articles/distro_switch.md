@@ -25,15 +25,19 @@ asked, well, the reason is because I need (want) to virtualize macOS to use cert
 programs (AltStore, also some development stuff, macOS is pretty clean as a
 desktop). I would buy a MacBook Air, which is a dcent laptop but I could probably
 just buy a [FrameWork](https://frame.work) laptop that would perform much better,
-although I do like the apple silicon.
+although I do like the Apple Silicon.
 
 Going off topic here for a bit, but I do like what Apple is doing with the M1. Its
-really powerful, but it seems a bit overused. The MacStudio is... good at best.
-Apple seems to be way over-using it and when they want a more powerufl processor
-they just go "Oh yea, lets just add more of the... cause you know thats how 
-it works." Which, I mean fair on the engineering aspect and the fact that they are
-recognized by the OS as 1 single chip, but with Starlink, you can just keep adding
-more and more chips, thats not how things work (or maybe it is, who knows).
+really powerful, but it seems a bit overused, or lacks originality. The MacStudio 
+is... good at best. It's basically just a double MacBook Pro (no, this isnt a 
+burger) in the sense that its two chips hooked together without a screen.
+But don't worry! You can spend $5,000 on a monitor directly from Apple!
+Apple seems to be way over-using the M1 and when they want a more powerful
+processor. For goodness sake, its in the iPad and yet the iPad doesn't have macOS.
+When Apple releases the M2 and people want the Mac Pro to be Apple Silicon, Apple is just going to be like "Oh yea, lets just add more of the... cause, you know, thats how it works." Which, I mean fair on the engineering aspect and the fact that they are recognized by the OS as 1 single chip (but could this just be a single if statement? We will never know), but the same principle applies to
+Starlink, you can just keep adding more and more chips, just like with Starlink
+that you cannot just keep adding more and more satilites. That philosophy is a 
+pretty bad way to run a business.
 
 The next issue is all my SSH and GnuPG keys, which are scattered across VMs and
 home folders and in random archives saved on my 2TB HDD (which I can't even
