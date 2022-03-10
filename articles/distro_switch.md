@@ -18,7 +18,22 @@ now anyway. When I build a NAS, that should all be taken care of.
 But its not just a distro switch I want (really need) to do. I dual boot
 Windows, for school and other purposes, and that install is also getting heavily
 bloated, by the day (that I use it, which is like 2 days/week). Do I wish that
-I had to dual boot Windows? Absolutely not! Bu
+I had to dual boot Windows? Absolutely not! But LTSC isn't too bad. Sure, its 
+a closed source peice of junk, but I do not have the money (see above) to pay
+for an extra discrete AMD gpu. "Why AMD?" the one person reading this probably
+asked, well, the reason is because I need (want) to virtualize macOS to use certain
+programs (AltStore, also some development stuff, macOS is pretty clean as a
+desktop). I would buy a MacBook Air, which is a dcent laptop but I could probably
+just buy a [FrameWork](https://frame.work) laptop that would perform much better,
+although I do like the apple silicon.
+
+Going off topic here for a bit, but I do like what Apple is doing with the M1. Its
+really powerful, but it seems a bit overused. The MacStudio is... good at best.
+Apple seems to be way over-using it and when they want a more powerufl processor
+they just go "Oh yea, lets just add more of the... cause you know thats how 
+it works." Which, I mean fair on the engineering aspect and the fact that they are
+recognized by the OS as 1 single chip, but with Starlink, you can just keep adding
+more and more chips, thats not how things work (or maybe it is, who knows).
 
 The next issue is all my SSH and GnuPG keys, which are scattered across VMs and
 home folders and in random archives saved on my 2TB HDD (which I can't even
