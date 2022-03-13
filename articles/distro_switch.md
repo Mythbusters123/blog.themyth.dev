@@ -64,7 +64,7 @@ A smaller, but more recent issue I have is that when I was installing my Arch sy
 I foolishly (kinda) split up my `/home` and `/` partitions. This is useful in some
 cases, mostly where your system breaks and you do not want to lose all of your files,
 but when you have really big files you want to install (ISOs, games) and then your home 
-folder fills up faster than your mom last night. 500GB was a great size for an SSD that
+folder fills up faster than a Shelby GT500. 500GB was a great size for an SSD that
 I bought, but the fact that I cannot dump a lot of things onto my NTFS drive (thanks again,
 optane) I am forced to use Windows.
 
