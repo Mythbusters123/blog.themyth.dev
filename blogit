@@ -146,7 +146,7 @@ blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header ar
 		-e '/^;/d' \
 		-e 's/&/\&amp;/g' \
 		-e 's/\&amp;lt;/\&lt;/g' \
-		-e 's/\&amp;rt;/\&rt;/g' \
+		-e 's/\&amp;gt;/\&gt;/g' \
 		-e '/^```$$/{s,.*,,;x;p;/^<\/code>/d;s,.*,<pre><code>,;bT}' \
 		-e 'x;/<\/code>/{x;s,\$$,\&#36;,g;$$G;p;d};x' \
 		-e 's,\\\$$,\&#36;,g' \
