@@ -59,7 +59,7 @@ you can do. It will also give you a good idea on how shell scripts work.
 ### Start with the basics - Keep it minimal
 In all honesty, I would recommend going with completely strict POSIX shell,
 it helps you be able to use pretty much every script you make be useable
-on every \*NIX system. There are some bash extensions, most notably `[[]]`
+on every *NIX system. There are some bash extensions, most notably `[[]]`
 but most of these funtions can easily be replicated using similar POSIX programs
 for example if you must use the regex `[[ a =~ abcd ]]` you can simply write
 `[ echo abcd | grep -Eq a ]` (`[` or `test` is a standard POSIX program).
@@ -83,8 +83,8 @@ This is one of the most used concept in shell scripting, along with substitution
 It works very funnily at first, but it is one of the best concepts to learn!
 
 ### You told me nothing besides how to read documentation
-You are somewhat correct, but that is the greatest thing about \*NIX! Everything
-is so well documented that all it takes is a simple `--help` or `man &lt;program&rt;`.
+You are somewhat correct, but that is the greatest thing about *NIX! Everything
+is so well documented that all it takes is a simple `--help` or `man &lt;program&gt;`.
 While it may be intiminating at first, the greatest tool is the man pages, and also
 trying until you get it right.
 
