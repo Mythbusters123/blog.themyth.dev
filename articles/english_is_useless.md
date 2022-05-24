@@ -3,7 +3,7 @@ English is Useless
 Yes, you heard me. English is the most useless subject taught in all schools in
 the United States besides Art. The language isn't useless, but the subject sure
 is Anything past 7th grade is useless knowledge. Do I care about how many words
-Shakespeare invented? No! I dont care about acting, who wrote who, the meaning
+Shakespeare invented? No! I don't care about acting, who wrote who, the meaning
 behind the first three paragraphs of Of Mice and Men, or whatever Gatsby does
 while hes lying.
 
@@ -31,4 +31,4 @@ other than spending your entire life in a seculded environmenmt where you are sh
 beyond belief.
 
 PS. Most of this is not serious, I am personally very biased against English (the subject)
-I really dont care.
+I really don't care.
