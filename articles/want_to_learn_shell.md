@@ -96,6 +96,6 @@ a lot you will see that these are the most common.
 
 To anyone who wants to learn, I wish you the best of luck!
 If any of you people actually find this guide helpful,
-email me at myth@themyth.dev for a part 2!
+email me at `myth@themyth.dev` for a part 2!
 
 ; tags: scripting shell
