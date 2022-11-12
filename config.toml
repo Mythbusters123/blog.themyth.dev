@@ -1,0 +1,5 @@
+languageCode = 'en-us'
+baseURL='https://themyth.dev'
+title = "Myth's Blog"
+theme = 'lugo' 
+datesinlist = true

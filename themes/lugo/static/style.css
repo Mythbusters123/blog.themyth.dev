@@ -1,0 +1,56 @@
+code {
+  color: orange;
+  border-radius: 5px;
+}
+pre {
+  background: #111222;
+  border: 1px solid #0f0;
+  border-radius: 20px;
+  padding: 1em;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  max-width: 600px;
+  margin: auto;
+}
+body {
+  color: #a9aeb5;
+  background: #1d2024;
+  margin: auto;
+  max-width: 75vw;
+  padding: 0 16px;
+  margin-bottom: 500px;
+  font-family: sans-serif;
+}
+a {
+  color: #ff8979;
+}
+.button_image {
+  width: 88px;
+  height: 31px;
+  display: inline-block;
+}
+.description {
+  text-indent: 0px;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+
+img {
+  max-width: 600px;
+  width: 100%;
+  margin: auto;
+  display: block;
+}
+#artlist {
+  column-count: 2;
+}
+@media (min-width: 100em) {
+  #artlist {
+    column-count: 3;
+  }
+}
