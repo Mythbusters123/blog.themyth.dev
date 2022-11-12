@@ -1,7 +1,7 @@
 ---
 title: "My Future Workstation"
 date: 2022-11-06T11:28:30-05:00
-draft:  false
+draft:  true
 ---
 For the uninitiated, I'm still in High School. That being said, college is right
 around the corner, and thus started my search for a laptop to carry around
