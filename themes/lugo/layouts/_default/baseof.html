@@ -4,7 +4,7 @@
 	<title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
 	<link rel="canonical" href="{{ .Site.BaseURL }}">
 	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
-	<link rel='stylesheet' type='text/css' href='/style.css'>
+  <link rel='stylesheet' type='text/css' href='{{ .Site.BaseURL }}/style.css'>
 	{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">
 	{{ end -}}
 	<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
@@ -35,20 +35,13 @@
 	<span style="display:inline-block; width:2ch;"></span>
 	<a href="https://github.com/Mythbusters123">Github</a>
 	<span style="display:inline-block; width:2ch;"></span>
+  <a href="{{.Site.BaseURL}}/about_me">About Me</a>
+	<span style="display:inline-block; width:2ch;"></span>
 	<a href="/index.xml">
 	<img src="/rss.svg" style="max-width: 1.2em; max-height:1.2em; display:inline-block;" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
 	<p style="text-indent: 0px;">Licensed under the 
 		<a href="https://www.gnu.org/licenses/agpl-3.0-standalone.html">AGPL License</a>
 	<p style="text-indent: 0px;">
-	<a href="https://landchad.net" style="text-decoration: none;">
-		<img src="https://landchad.net/pix/landchad.gif" class="button_image" alt="LandChad.net">
-	</a>
-	<span style="display:inline-block;width: 2ch;">&#9;</span>
-	<a href="https://larbs.xyz" style="text-decoration:none">
-		<img src="https://larbs.xyz/pix/larbs.gif" class="button_image" alt="LARBS.xyz">
-	</a>
-	
-
 	<p style="text-indent: 0px;"><small>Powered by <a href="https://gohugo.io/">Hugo</a></small></p>
 </footer>
 {{ end }}
