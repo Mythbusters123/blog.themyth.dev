@@ -3,12 +3,6 @@ code {
   border-radius: 5px;
   font-size: 14px;
 }
-@font-face {
-  font-family: 'Merriwheather';
-  font-style: normal;
-  font-weight: 400;
-  src: url('http://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZMdeX3rg.woff2') format('woff2');
-}
 
 pre {
   background: #eee6e;
@@ -56,11 +50,10 @@ img {
   margin: auto;
   display: block;
 }
-#artlist {
-  column-count: 2;
-}
-@media (min-width: 100em) {
-  #artlist {
-    column-count: 3;
-  }
+
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZMdeX3rg.woff2) format('woff2');
 }
