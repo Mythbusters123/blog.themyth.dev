@@ -19,7 +19,8 @@ field) tend to use Windows-heavy hardware.
 
 Even with the "Windows-Only" software that colleges make you use for engineering
 you can get around that with a Macbook. They can run VMs surprisingly well and
-even then if it doesn't work its not the end of the world. (Computer labs exist 😉)
+even then if it doesn't work its not the end of the world. (Computer labs exist
+😉)
 
 But lets get onto the actual meat and potatoes of this article: What would my
 future workstation look like? First off, It would be all laptops. "Why would you
@@ -35,19 +36,30 @@ know just how much it sucks to only have your phone or iPad, where those  aren't
 really that useable, espeically when it comes to prgramming and doing normal,
 every-day tasks with maximum productivity, tablets and phones just don't cut it.
 
-You may have noticed in the previous paragraph that I specified laptops.
-Yes, there would be two. Some can already guess why, but to those who havent:
-One will be a Macbook (probably  Pro) and a Windows laptop that is able to
-dualboot both Windows and Linux. In an ideal world, the setup would look like
-this, at the current time. Technology is always advancing, but if I had
-around $5,000 right now, this is what I would get (or extrapolated from data
-I can predict on):
+However, I would not only use these JUST because of the portability. While one
+part of the issue is graphics horsepower, that will be touched upon in a later
+paragraph. What will also be included on the shopping list will be two
+Thunderbolt docks, along with a new 1440p/4K monitor with a 165Hz refresh rate
+that will be an IPS or VA panel for maximum color accuracy. I already do have
+two monitors, which are measly 75Hz and TN panel, but they work as monitors,
+which would most likely go on the Macbook for maxmium productivity.
 
-- Macbook Pro
-  - M2 Pro (10  core CPU, 14 Core GPU)
+You may have noticed in the previous paragraph that I specified laptops.  Yes,
+there would be two. Some can already guess why, but to those who havent: One
+will be a Macbook (probably  Pro) and a Windows laptop that is able to dualboot
+both Windows and Linux. In an ideal world, the setup would look like this, at
+the current time. Technology is always advancing, but if I had around $5,500
+right now, this is what I would get in terms of the actual hardware I would get
+(or extrapolated from data I can predict on):
+
+Keep in mind that the setup I list here (except for probably the Macbook) is all
+for the future, not in the present day.
+
+- Macbook Pro 14" ($2400-$2800 USD)
+  - M2 Pro (10 core CPU, 14 Core GPU)
   - 16-32GB RAM depending on workload
   - 1TB SSD
-- Framework Laptop
+- Framework Laptop ($1522 USD)
   - Intel Core i7-1260p
   - 1TB NVMe SSD
   - 32GB RAM
@@ -55,31 +67,58 @@ I can predict on):
   - 3&times;USB-C Expansion Slot
   - 1&times;Ethernet Expansion Slot
 
+Also related but not strictly a laptop/computer:
+
+- Razer Core X ($325)
+  - AMD Radeon RX-7700XT ($TBD)
+- ASUS TUF Gaming VG27AQ ($310)
+- Anker 577 ($330)
+  - This would probably be shared between laptops
+
+This will total out to about $5500-$6000 (Yay credit card debt!) but considering
+how long it would not only last me, but also the productivity curated by this
+setup would pay this off over time.
+
 I assume most of you noticed that I did not include a GPU in with this mess; or
 even a laptop that comes with a built-in GPU. To be frank, laptops with GPUs are
-worse. They have worse thermals, cost an arm and a leg, and look just.. BAD.
-This is why opting for an eGPU is just plain better. An eclosure costs around
-$300, and since the laptop hardware isn't too powerful a mid-tier GPU such as
-the soon-to-be-released AMD Radeon RX-7700XT. This would probably be the perfect
-card for my usecase, as even though AMD support for enterprise and engineering
-applicatios is sub-par at best, It would be just fine to get me through.
-Considering this would be a personal setup to begin with, the computer(s) I
-would get from work would be more than adequate for the stuff at work I need to
-do. My personal stuff I would like to keep as Linux-compatible as possible
-because I personally like Linux and don't want a crappy driver experience.
+worse. They have worse thermals, cost an arm and a leg (and yet here I am
+talking about Macbooks), and look just.. BAD.  This is why opting for an eGPU is
+just plain better. An eclosure costs around $300, and since the laptop hardware
+isn't too powerful a mid-tier GPU such as the soon-to-be-released AMD Radeon
+RX-7700XT. This would probably be the perfect card for my usecase, as even
+though AMD support for enterprise and engineering applicatios is sub-par at
+best, It would be just fine to get me through.  Considering this would be a
+personal setup to begin with, the computer(s) I would get from work would be
+more than adequate for the stuff at work I need to do. My personal stuff I would
+like to keep as Linux-compatible as possible because I personally like Linux and
+don't want a crappy driver experience.
 
-That being said, I currently have not had any problems with NVIDIA's drivers
-on Linux, even before they decided to open-source them. I always just installed
-them through DKMS, and they worked like a charm, *AFTER* I disabled Nouveau. I
+That being said, I currently have not had any problems with NVIDIA's drivers on
+Linux, even before they decided to open-source them. I always just installed
+them through DKMS, and they worked like a charm, **after** I disabled Nouveau. I
 don't know why Nouveau was enabled by default even after install the proptietary
-drivers, but it's whatever as it still worked; quite well actually. While I
-find it  an inconvience to install the proprietary drivers, I don't exactly find
-it a huge nuicense. I wish NVIDIA did suppoort GeForce Now or something along those
-lines on Linux, but it is what it is. NVIDIA support through eGPUs is iffy at best,
-especially since it uses Xorg which is iffy on eGPUs in general, but Xorg is fine
-because I use (or will use) DWM as my display manager (see my github 😉).
+drivers, but it's whatever as it still worked; quite well actually. While I find
+it  an inconvience to install the proprietary drivers, I don't exactly find it a
+huge nuicense. I wish NVIDIA did suppoort GeForce Now or something along those
+lines on Linux, but it is what it is. NVIDIA support through eGPUs is iffy at
+best, especially since it uses Xorg which is iffy on eGPUs in general, but Xorg
+is fine because I use (or will use) DWM as my display manager (see my github
+😉). Wayland is another issue, as I really want to use it and since Linux
+doesn't support a lot of what I do anyway, I might as well use it.
 
-This makes me torn. Now, because it is my personal laptop and I will probably
-be provided a laptop for work, I can reasonably get whatever I want, especially
+This makes me torn. Now, because it is my personal laptop and I will probably be
+provided a laptop for work, I can reasonably get whatever I want, especially
 considering that the Macbook Pro would have plenty of horsepower for any CAD or
-any computation work, especially with the new M2 chip.
+any computation work, especially with the new M2 chip and 32GB of RAM, but the
+RAM ugrade is really expensive even if it pays itself off. There is the valid
+question: "Why the Macbook Pro? The Air has the same or almost the same base
+specifications!" And you would be correct except for the stark lack of I/O on
+the Air. "But you can just get a Thunderbolt Dock!1!11!" And while that is
+correct, you cannot have 32GB of RAM on the Air and bandwidth is limited between
+those ports, not allowing the 2 Thunderbolt ports on the Air to have maximum
+speed rather than sharing bandwidth with a monitor, SD card, and you even get an
+extra Thunderbolt port! Not to mention the extra fan for added cooling. Even
+though it seemes like a money sink, the upfront cost will eventaully pay off, or
+at least I hope so.
+
+i
