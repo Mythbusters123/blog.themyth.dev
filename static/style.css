@@ -55,3 +55,9 @@ img {
   margin: auto;
   display: block;
 }
+@media print {
+  body {
+  background: #fff;
+  color: #1d2024;
+  }
+}
