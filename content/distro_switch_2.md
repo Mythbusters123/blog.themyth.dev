@@ -14,7 +14,7 @@ $10/year (I do not know why I was griping about that, it is actually seriously
 reasonable, but the free version works great too!). Now that I have Bitwarden to
 manage all my passwords, I can have my passwords everywhere! My phone, my iPad
 (which I have to have for school and I only really use it for remoting into my
-PC.) 
+PC.)
 
 The installation was pretty straight-forward for me. I used the Command Prompt
 (Shift+F8 for you uninitiated. ;]) and just wiped the disk, etc.  You know the

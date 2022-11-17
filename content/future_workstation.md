@@ -67,3 +67,19 @@ Considering this would be a personal setup to begin with, the computer(s) I
 would get from work would be more than adequate for the stuff at work I need to
 do. My personal stuff I would like to keep as Linux-compatible as possible
 because I personally like Linux and don't want a crappy driver experience.
+
+That being said, I currently have not had any problems with NVIDIA's drivers
+on Linux, even before they decided to open-source them. I always just installed
+them through DKMS, and they worked like a charm, *AFTER* I disabled Nouveau. I
+don't know why Nouveau was enabled by default even after install the proptietary
+drivers, but it's whatever as it still worked; quite well actually. While I
+find it  an inconvience to install the proprietary drivers, I don't exactly find
+it a huge nuicense. I wish NVIDIA did suppoort GeForce Now or something along those
+lines on Linux, but it is what it is. NVIDIA support through eGPUs is iffy at best,
+especially since it uses Xorg which is iffy on eGPUs in general, but Xorg is fine
+because I use (or will use) DWM as my display manager (see my github 😉).
+
+This makes me torn. Now, because it is my personal laptop and I will probably
+be provided a laptop for work, I can reasonably get whatever I want, especially
+considering that the Macbook Pro would have plenty of horsepower for any CAD or
+any computation work, especially with the new M2 chip.
