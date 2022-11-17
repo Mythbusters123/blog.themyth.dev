@@ -4,9 +4,9 @@ code {
   font-size: 14px;
 }
 pre {
-  background: #eee6e;
-  border: 1px solid #def;
-  border-radius: 20px;
+  background: #444;
+  border: 1px  solid#def;
+  border-radius: 5px;
   padding: 1em;
   white-space: pre-wrap;
   overflow-wrap: break-word;
