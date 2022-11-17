@@ -14,4 +14,4 @@ everything offline with no internet required. Yet, I am still a soy dev as the
 is because there are stuff that I can only do with Next.JS and it will happen
 (TM). This is just a small blog, posts will be whenever I feel like it. However,
 soon I will be documenting my switch from Arch to Artix, because Artix Linux is
-infinitely superior. 
+infinitely superior.

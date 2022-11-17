@@ -13,14 +13,14 @@ behind the first three paragraphs of Of Mice and Men, or whatever Gatsby does
 while hes lying.
 
 The only thing you should know is basic grammar and what different words are.
-The rest, just look it up online! It isn't that hard to figure out. 
+The rest, just look it up online! It isn't that hard to figure out.
 
 While we are on the topic of things to look up online, why does anyone use MLA
 anymore? It's so informal and it just looks plain bad. Chicago manual style is
 miles better, plus it allows the person to use Bible quotations easily without
 having to cite the author of the Bible (because its God (:< ). Plus I'm pretty sure
 that you are supposed to use a Sans font when you are writing MLA, but you use a
-Sans-Serif (specifically Times New Roman, the best font! besides FiraCode) for 
+Sans-Serif (specifically Times New Roman, the best font! besides FiraCode) for
 Chicago which makes it look much more formal and not like a high-schoolers not-even
 -tried-on research paper.
 
