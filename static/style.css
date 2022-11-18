@@ -26,7 +26,7 @@ body {
   max-width: 800px;
   padding: 0 16px;
   margin-bottom: 500px;
-  font-family: Garamond, 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+  font-family: Garamond, Georgia, 'EB Garamond', 'Times New Roman', Times, serif;
   font-size: 16px;
 }
 a {
