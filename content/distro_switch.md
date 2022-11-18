@@ -1,5 +1,5 @@
 ---
-title: "The Distro Switch: Part 1&mdash;Preparation"
+title: "The Distro Switch: Part 1—Preparation"
 date: 2022-03-08
 draft: false
 tags: [blog, rant]
