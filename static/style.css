@@ -2,12 +2,7 @@ code {
   color: orange;
   border-radius: 5px;
   font-size: 14px;
-  font-family: 'Fira Code', monospace;
-}
-@supports (font-variation-settings: normal) {
-  code {
-    font-family: 'Fira Code VF', monospace;
-  }
+  font-family: monospace;
 }
 pre {
   background: #444;
@@ -26,7 +21,7 @@ body {
   max-width: 800px;
   padding: 0 16px;
   margin-bottom: 500px;
-  font-family: Garamond, Georgia, 'EB Garamond', 'Times New Roman', Times, serif;
+  font-family: Garamond, 'Cormorant Garamond', Georgia, 'EB Garamond', 'Times New Roman', Times, serif;
   font-size: 16px;
 }
 a {
