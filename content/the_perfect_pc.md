@@ -14,7 +14,7 @@ all possible? The land of VMs is a magical and amazing world. In this guide I wi
 list the PC's that can do this at multiple price points, and you won't have to make
 barely any compromises.
 
-## The Rich Kid
+## The Rich Kid {.heading}
 
 This PC doesn't take no for an answer. It can do anything you throw at it, and it will
 barely break a sweat. The parts list is as follows:

@@ -3,3 +3,6 @@ baseURL='https://themyth.dev'
 title = "Myth's Blog"
 theme = 'lugo' 
 datesinlist = true
+[markup.goldmark.parser.attribute]
+block = true
+title = true

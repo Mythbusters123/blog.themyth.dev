@@ -14,7 +14,7 @@ And if you want to learn shell, I will go over the main functionalities
 and what some main programs are used for, and that way you can learn to
 become a master Shell script writer.
 
-### The Basics
+### The Basics {.heading}
 
 There are some basic concepts you need to know before coding in Shell.
 You must know:
@@ -38,7 +38,7 @@ output into the STDIN, which we will get to later). STDOUT is just the
 output of the program, which can also be redirected, which will be
 covered later.
 
-### Differences from other languages
+### Differences from other languages {.heading}
 
 Shell is a bit funky compared to the other "standard" languages, e.g.
 JavaScript, C, Rust in the idea that it isn't built in functions that
@@ -55,7 +55,7 @@ You cannot type `a = b`, as it will call program `a` with the arguments of
 with echo, you must type `echo "\$a"` (remember QEFS?). There are multiple
 other things, but this is probably the main one.
 
-### Ok ok, its funky. What next?
+### Ok ok, its funky. What next? {.heading}
 
 Read the man pages and documentation. A good resource for it is
 [https://linux.die.net](https://linux.die.net). This might come off as cliche
@@ -65,7 +65,7 @@ StackOverflow and then type in my specific problem is countless. I would also
 recommend looking at other people's shell scripts to see the extent of things
 you can do. It will also give you a good idea on how shell scripts work.
 
-### Start with the basics - Keep it minimal
+### Start with the basics - Keep it minimal {.heading}
 
 In all honesty, I would recommend going with completely strict POSIX shell,
 it helps you be able to use pretty much every script you make be useable
@@ -74,7 +74,7 @@ but most of these funtions can easily be replicated using similar POSIX programs
 for example if you must use the regex `[[ a =~ abcd ]]` you can simply write
 `[ echo abcd | grep -Eq a ]` (`[` or `test` is a standard POSIX program).
 
-### Start small, and work your way up
+### Start small, and work your way up {.heading}
 
 The main way I got started was modifying the program notflix, made by
 [BugsWriter](https://bugswriter.com). Another easy way to get started is by
@@ -88,7 +88,7 @@ out. An easy way to do this is
 I will probably write another section specficically on awk, but for now, I'll
 leave it as it is.
 
-### Pipes, Pipes, Pipes
+### Pipes, Pipes, Pipes {.heading}
 
 The most single useful feature of shell is piping! While at first the idea of
 directing STDOUT into the STDIN of a different program seems foreign, it has
@@ -98,14 +98,14 @@ important.  This is one of the most used concept in shell scripting, along with
 substitution.  It works very funnily at first, but it is one of the best
 concepts to learn!
 
-### You told me nothing besides how to read documentation
+### You told me nothing besides how to read documentation {.heading}
 
 You are somewhat correct, but that is the greatest thing about *NIX! Everything
 is so well documented that all it takes is a simple `--help` or `man <program>`.
 While it may be intiminating at first, the greatest tool is the man pages, and also
 trying until you get it right.
 
-### Closing notes
+### Closing notes {.heading}
 
 Typically, the most common programs you are going to use are
 `grep`, `sed`, `cat`, `echo`, `printf`, and `[`/`test`. You will
