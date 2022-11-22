@@ -3,6 +3,7 @@ title: "My Future Workstation"
 date: 2022-11-22T11:28:30-05:00
 draft: false 
 ---
+
 For the uninitiated, I'm still in High School. That being said, college is right
 around the corner, and thus started my search for a laptop to carry around
 campus and do actual college work. I currently do have an iPad, but some apps
