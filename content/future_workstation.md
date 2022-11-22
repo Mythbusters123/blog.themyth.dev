@@ -11,7 +11,7 @@ that I would like to use and need to use for college (especially since I will be
 going into an engineering major) are not available and thus make getting a
 laptop a necessary purchase.
 
-## Why not a Macbook? {#id class="heading"}
+## Why not a Macbook?
 
 A solid choice for college students is the all-fabled, legendary Macbook; and to
 be honest I am not in opposition of it. However, what concerns me is the fact
@@ -25,7 +25,7 @@ you can get around that with a Macbook. They can run VMs surprisingly well and
 even then if it doesn't work its not the end of the world. (Computer labs exist
 😉)
 
-## The Actual Setup {#id class="heading"}
+## The Actual Setup
 
 But lets get onto the actual meat and potatoes of this article: What would my
 future workstation look like? First off, It would be all laptops. "Why would you
@@ -49,7 +49,7 @@ that will be an IPS or VA panel for maximum color accuracy. I already do have
 two monitors, which are measly 75Hz and TN panel, but they work as monitors,
 which would most likely go on the Macbook for maxmium productivity.
 
-## Wait, Who Could Need More Than One Laptop? {#id class="heading"}
+## Wait, Who Could Need More Than One Laptop?
 
 You may have noticed in the previous paragraph that I specified laptops.  Yes,
 there would be two. Some can already guess why, but to those who havent: One
@@ -86,23 +86,23 @@ This will total out to about $5500-$6000 (Yay credit card debt!) but considering
 how long it would not only last me, but also the productivity curated by this
 setup would pay this off over time.
 
-## How Good Will Gaming Be? {#id class="heading"}
+## How Good Will Gaming Be?
 
-I assume most of you noticed that I did not include a GPU in with this mess; or
-even a laptop that comes with a built-in GPU. To be frank, laptops with GPUs are
-worse. They have worse thermals, cost an arm and a leg (and yet here I am
-talking about Macbooks), and look just.. BAD.  This is why opting for an eGPU is
-just plain better. An eclosure costs around $300, and since the laptop hardware
-isn't too powerful a mid-tier GPU such as the soon-to-be-released AMD Radeon
-RX-7700XT. This would probably be the perfect card for my usecase, as even
-though AMD support for enterprise and engineering applicatios is sub-par at
-best, It would be just fine to get me through.  Considering this would be a
-personal setup to begin with, the computer(s) I would get from work would be
-more than adequate for the stuff at work I need to do. My personal stuff I would
-like to keep as Linux-compatible as possible because I personally like Linux and
-don't want a crappy driver experience.
+I assume most of you noticed that I did not include a GPU (except an eGPU) in
+with this mess; or even a laptop that comes with a built-in GPU. To be frank,
+laptops with GPUs are worse. They have worse thermals, cost an arm and a leg
+(and yet here I am talking about Macbooks), and look just.. BAD.  This is why
+opting for an eGPU is just plain better. An eclosure costs around $300, and
+since the laptop hardware isn't too powerful a mid-tier GPU such as the
+soon-to-be-released AMD Radeon RX-7700XT. This would probably be the perfect
+card for my usecase, as even though AMD support for enterprise and engineering
+applicatios is sub-par at best, It would be just fine to get me through.
+Considering this would be a personal setup to begin with, the computer(s) I
+would get from work would be more than adequate for the stuff at work I need to
+do. My personal stuff I would like to keep as Linux-compatible as possible
+because I personally like Linux and don't want a crappy driver experience.
 
-## NVIDIA {#id class="heading"}
+## NVIDIA
 
 That being said, I currently have not had any problems with NVIDIA's drivers on
 Linux, even before they decided to open-source them. I always just installed
@@ -117,7 +117,7 @@ is fine because I use (or will use) DWM as my display manager (see my github
 😉). Wayland is another issue, as I really want to use it and since Linux
 doesn't support a lot of what I do anyway, I might as well use it.
 
-## I/O {#id class="heading"}
+## I/O
 
 This makes me torn. Now, because it is my personal laptop and I will probably be
 provided a laptop for work, I can reasonably get whatever I want, especially
@@ -134,7 +134,7 @@ extra Thunderbolt port! Not to mention the extra fan for added cooling. Even
 though it seemes like a money sink, the upfront cost will eventaully pay off, or
 at least I hope so.
 
-## Final Notes {#id class="heading"}
+## Final Notes
 
 I guess it will come down to personal preference and also how well I make it
 through college with a Macbook to start, as that is probably what I will start
