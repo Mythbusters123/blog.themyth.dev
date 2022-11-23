@@ -26,6 +26,7 @@ even then if it doesn't work it's not the end of the world. (Computer labs exist
 😉)
 
 ### The Actual Setup {.heading}
+
 But let's get onto the actual meat and potatoes of this article: What would my
 future workstation look like? First off, It would be all laptops. "Why would you
 want all laptops?" You may ask. And while that is a good question, especially
@@ -61,7 +62,7 @@ extrapolated from data I can predict):
 Keep in mind that the setup I list here (except for probably the MacBooks) is
 all for the future, not in the present day.
 
-MacBook Pro 14" ($2400-$2800 USD)
+- MacBook Pro 14" ($2400-$2800 USD)
   - M2 Pro (10 core CPU, 14 Core GPU)
   - 16-32GB RAM depending on the workload
   - 1TB SSD
@@ -100,6 +101,7 @@ Considering this would be a personal setup, to begin with, the computer(s) I
 would get from work would be more than adequate for the stuff at work I need to
 do. My stuff I would like to keep as Linux-compatible as possible because I
 personally like Linux and don't want a crappy driver experience.
+
 ### NVIDIA {.heading}
 
 That being said, I currently have not had any problems with NVIDIA's drivers on
@@ -115,6 +117,7 @@ eGPUs in general, but Xorg is fine because I use (or will use) DWM as my display
 manager (see my GitHub 😉). Wayland is another issue, as I really want to use it
 and since Linux doesn't support a lot of what I do anyway, I might as well use
 it.
+
 ### I/O {.heading}
 
 This makes me torn. Now, because it is my laptop and I will probably be provided
@@ -130,6 +133,7 @@ allowing the 2 Thunderbolt ports on the Air to have maximum speed rather than
 sharing bandwidth with a monitor, SD card, and you even get an extra Thunderbolt
 port! Not to mention the extra fan for added cooling. Even though it seems like
 a money sink, the upfront cost will eventually pay off, or at least I hope so.
+
 ### Final Notes {.heading}
 
 I guess it will come down to personal preference and also how well I make it
