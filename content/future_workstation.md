@@ -122,7 +122,7 @@ it.
 
 This makes me torn. Now, because it is my laptop and I will probably be provided
 a laptop for work, I can reasonably get whatever I want, especially considering
-that the MacBooks Pro would have plenty of horsepower for any CAD or any
+that the MacBook Pro would have plenty of horsepower for any CAD or any
 computation work, especially with the new M2 chip and 32GB of RAM, but the RAM
 upgrade is expensive even if it pays itself off. There is a valid question: "Why
 the MacBooks Pro? The Air has the same or almost the same base specifications!"
