@@ -4,7 +4,7 @@
 	<title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
 	<link rel="canonical" href="{{ .Site.BaseURL }}">
 	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
-	<link rel='stylesheet' type='text/css' href="https://fonts.googleapis.com/css?family=Spectral" />
+	<link rel='stylesheet' type='text/css' href="https://fonts.googleapis.com/css?family=Source+Serif+Pro" />
     <link rel='stylesheet' type='text/css' href='{{ .Site.BaseURL }}/style.css'>
 	{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">
 	{{ end -}}
@@ -19,8 +19,7 @@
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
 <header><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></header>
-	<p class="description">A blog about Linux, POSIX scripting, Computer Hardware, Cars, and Anything In-Between</p>
-	<br>
+	<p style="text-align: center;">A blog about Linux, POSIX scripting, Computer Hardware, Cars, and Anything In-Between</p>
 <article>
 {{ block "main" . }}
 {{ .Content }}
