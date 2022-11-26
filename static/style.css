@@ -6,7 +6,7 @@ code {
 }
 :root {
   --text-color: #eee6e6be;
-  --serif-font: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  --sans-font: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 pre {
   background: #444;
@@ -25,22 +25,33 @@ body {
   max-width: 800px;
   padding: 0 16px;
   margin-bottom: 500px;
-  font-family: 'Source Serif Pro', Garamond, Georgia, 'EB Garamond', 'Times New Roman', Times, serif;
+  font-family: Garamond, 'Source Serif Pro', Georgia, 'Times New Roman', Times, serif;
   font-size: 20px;
 }
 a {
   color: #ff8979;
 }
-p {
+article p {
   text-indent: 30px;
 }
+small {
+  font-family: var(--sans-font);
+}
+/* article p:first-child { */
+/*   text-indent: 0px; */
+/* } */
+/* article p:first-child::first-letter { */
+/*   font-size: 4rem; */
+/*   float: left; */
+/*   line-height: 1; */
+/* } */
 h1 {
   text-align:  center;
   color: #eee6e6be;
-  font-family: var(--serif-font);
+  font-family: var(--sans-font);
 }
 .heading {
-  font-family: var(--serif-font);
+  font-family: var(--sans-font);
   color: var(--text-color);
   font-size: 20px;
   font-weight: bold;

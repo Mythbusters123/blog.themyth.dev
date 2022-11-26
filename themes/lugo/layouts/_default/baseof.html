@@ -20,6 +20,7 @@
 <main>
 <header><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></header>
 	<p style="text-align: center;">A blog about Linux, POSIX scripting, Computer Hardware, Cars, and Anything In-Between</p>
+  <hr />
 <article>
 {{ block "main" . }}
 {{ .Content }}
@@ -39,10 +40,10 @@
 	<span style="display:inline-block; width:2ch;"></span>
 	<a href="/index.xml">
 	<img src="/rss.svg" style="max-width: 1.2em; max-height:1.2em; display:inline-block;" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
-	<p style="text-indent: 0px;">Licensed under the 
+	<p>Licensed under the 
 		<a href="https://www.gnu.org/licenses/agpl-3.0-standalone.html">AGPL License</a>
-	<p style="text-indent: 0px;">
-	<p style="text-indent: 0px;"><small>Powered by <a href="https://gohugo.io/">Hugo</a></small></p>
+	<p>
+	<p><small>Powered by <a href="https://gohugo.io/">Hugo</a></small></p>
 </footer>
 {{ end }}
 </body>

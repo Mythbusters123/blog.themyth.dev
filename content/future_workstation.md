@@ -38,7 +38,7 @@ USE them on a plane, or even in a car for that matter. How good it is to have a
 computer you don't even use that much that you have to use on the plane or in
 the car. Portability is what I will strive for in my new workstation because I
 know just how much it sucks to only have your phone or iPad, which aren't that
-useable, especially when it comes to programming and doing normal tasks with
+usable, especially when it comes to programming and doing normal tasks with
 maximum productivity, tablets and phones just don't cut it.
 
 However, I would not only use these JUST because of the portability. While one
@@ -79,7 +79,7 @@ Also related but not strictly a laptop/computer:
 - Razer Core X ($325)
   - AMD Radeon RX-7700XT ($TBD)
 - ASUS TUF Gaming VG27AQ ($310)
-- Anker 577 ($330)
+- OWC Thunderbolt 3 Dock ($300)
   - This would probably be shared between laptops
 
 This will total out to about $5500-$6000 (Yay credit card debt!) but considering
