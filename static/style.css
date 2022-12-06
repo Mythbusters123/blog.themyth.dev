@@ -36,6 +36,7 @@ article p {
 }
 small {
   font-family: var(--sans-font);
+  font-size: 15px;
 }
 /* article p:first-child { */
 /*   text-indent: 0px; */
@@ -54,7 +55,7 @@ h1 {
   font-family: var(--sans-font);
   color: var(--text-color);
   font-size: 20px;
-  font-weight: bold;
+  font-weight: 450;
 }
 .small {
   font-size: 18px;

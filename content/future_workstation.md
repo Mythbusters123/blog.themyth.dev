@@ -1,7 +1,7 @@
 ---
 title: "My Future Workstation"
 date: 2022-11-22T11:28:30-05:00
-draft: false 
+draft: false
 ---
 
 For the uninitiated, I'm still in High School. That being said, college is right
@@ -99,7 +99,7 @@ card for my use case, as even though AMD support for enterprise and engineering
 applications is sub-par at best, It would be just fine to get me through.
 Considering this would be a personal setup, to begin with, the computer(s) I
 would get from work would be more than adequate for the stuff at work I need to
-do. My stuff I would like to keep as Linux-compatible as possible because I
+do. I would like to keep my stuff as Linux-compatible as possible because I
 personally like Linux and don't want a crappy driver experience.
 
 ### NVIDIA {.heading}

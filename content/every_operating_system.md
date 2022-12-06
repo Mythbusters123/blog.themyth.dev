@@ -51,6 +51,13 @@ you're the best. Doing some simple tasks on Windows can end up jank-y, and
 installing applications is always a hassle.  Many use Windows because of the
 huge amount of support, for gaming, or for programming on the World's OS.
 
+Almost any laptop you buy comes with Windows, besides ones that come from
+Apple. In fact, almost any PC you can buy pre-built comes with Windows
+pre-installed on it. Sure, some manufacturers are adding a Linux option
+for their laptops, bust most of the time they are sold with Windows as
+their primary operating system. This contributes to Windows' huge market
+share.
+
 However, Windows does come with a lot of drawbacks, from having your data
 being mined by Microsoft, forced updates, to ads being displayed in your
 start menu. Sure, this comes with a lower upfront cost but in reality this
@@ -102,8 +109,8 @@ MacOS is incredibly immersed within the Apple ecosystem. Anything from using
 your Apple Watch as two-factor authentication to having your AirPods seamlessly
 connect to all your Apple devices without you having to mess with them at all.
 
-I could write on and on about MacOS, just because I've done so much research
-into it, but I will stop myself and start listing the pros and cons.
+I could write on and on about MacOS just because I've done so much research
+into it but I will stop myself and start listing the pros and cons.
 
 - Pros
   - Integrates you into the Apple ecosystem.
@@ -115,7 +122,7 @@ into it, but I will stop myself and start listing the pros and cons.
   - Open about data collection.
   - UNIX-like.
 - Cons
-  - Cannot remove bloatware at all.
+  - Cannot remove bloatware at all except in some extreme circumstances.
   - Not very compatible with non-Apple certified hardware.
   - Very hard or impossible to repair/upgrade.
   - Hard to virtualize.
@@ -123,10 +130,47 @@ into it, but I will stop myself and start listing the pros and cons.
 
 ### Linux {.heading}
 
-Up until now, I have covered operating systems made by huge companies
-with monetary goals. From now on, every operating system I cover will
+Up until now, I have covered operating systems made by huge companies with
+monetary goals. From now on, every operating system I cover will be open-source
+and rely on crowd-funding, not a manufacturers desires. Linux has a reputation
+of not being user-friendly, however in recent times this stereotype has become
+less and less true.
+
+Linux is unique from other operating systems, it has specialized distributions
+made for specific tasks or user-base. The two most common of these distros (as
+we will be calling them from now on) are Debian and Arch. Debian is a release
+distro, meaning that every couple months or so there is a new release for
+Debian. Arch on the other hand is a rolling release distro, meaning that there
+are no specialized releases, just as soon as a new patch gets release for a
+package you install, it gets downloaded and installed onto your system. This
+creates a sense of insecurity, as the packages aren't fully tested before being
+released to the general public, whereas Debian's packages are.
+
+However, Linux isn't just about the distro you pick. At its heart, Linux is
+UNIX-like, as it was created as an open-source "side project" to UNIX, a huge
+operating system developed by AT&T Bell Labs, way back in the wild west of
+Computer Technology days. Today the closest relative to UNIX is BSD, which was
+University of Berkeley-California's take on the UNIX operating system. Linux
+does stick to UNIX's core principals; the main one being "treat everything as a
+file". For some people this concept is hard to grasp, but it is basically
+saying that everything you connect to your computer in one way or another is
+treated as a file descriptor, that behaves like a file and you computer can
+interact with it like it is a file.
 
 ### Debian (and it's derivatives) {.heading class="small"}
+
+
+Pros:
+Large community support with frequent updates and bug fixes
+High level of security with strict adherence to the Open Source Definition
+Variety of software packages available in the repository
+Customizable and configurable to fit individual needs
+
+Cons:
+Longer release cycles compared to other Linux distributions
+Stricter adherence to free software may limit available software packages
+May require more technical knowledge to set up and maintain compared to other distributions
+Lack of commercial support options for enterprise users.Pros:
 
 ### Arch (and it's derivatives) {.heading class="small"}
 
