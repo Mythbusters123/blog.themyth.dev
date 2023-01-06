@@ -1,25 +1,8 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.Language }}">
-<head>
-	<title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
-	<link rel="canonical" href="{{ .Site.BaseURL }}">
-	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
-	<link rel='stylesheet' type='text/css' href="https://fonts.googleapis.com/css?family=Source+Serif+Pro" />
-    <link rel='stylesheet' type='text/css' href='{{ .Site.BaseURL }}/style.css'>
-	{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">
-	{{ end -}}
-	<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
-	{{ if isset .Params "tags" }}<meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
-	{{ end -}}
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="robots" content="index, follow">
-	<meta charset="utf-8">
-</head>
-<body>
+{{ partial "header.html" . }}
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
-<header><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></header>
-	<p style="text-align: center;">A blog about Linux, POSIX scripting, Computer Hardware, Cars, and Anything In-Between</p>
+<header><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1><p style="padding: 0px 0px;text-align:center;font-size: 26px;font-weight: bold;">From Myth's Blog</p></header>
+	<p style="text-align: center; font-family: var(--sans-font);">A blog about Linux, POSIX scripting, Computer Hardware, Cars, and Anything In-Between</p>
   <hr />
 <article>
 {{ block "main" . }}
@@ -29,22 +12,4 @@
 {{ partial "taglist.html" . }}
 </article>
 </main>
-{{ block "footer" . }}
-<footer>
-	<hr>
-	<a href="{{ .Site.BaseURL }}">Home</a>
-	<span style="display:inline-block; width:2ch;"></span>
-	<a href="https://github.com/Mythbusters123">Github</a>
-	<span style="display:inline-block; width:2ch;"></span>
-  <a href="{{.Site.BaseURL}}/about_me">About Me</a>
-	<span style="display:inline-block; width:2ch;"></span>
-	<a href="/index.xml">
-	<img src="/rss.svg" style="max-width: 1.2em; max-height:1.2em; display:inline-block;" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
-	<p>Licensed under the 
-		<a href="https://www.gnu.org/licenses/agpl-3.0-standalone.html">AGPL License</a>
-	<p>
-	<p><small>Powered by <a href="https://gohugo.io/">Hugo</a></small></p>
-</footer>
-{{ end }}
-</body>
-</html>
+{{ partial "footer.html" . }}

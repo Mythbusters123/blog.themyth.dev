@@ -83,7 +83,7 @@ the pros and cons of Windows.
 
 ### MacOS {.heading}
 
-MacOS is Apple's beloved or hated operating system used mostly by people
+MacOS is Apple's beloved (or hated) operating system used mostly by people
 afraid of technology, developers, or artists. Developers are present among
 every operating system but the ones who use MacOS are particularly vocal about
 why MacOS is good and why they use it.

@@ -6,7 +6,7 @@
 <ul>
 {{- range.Pages }}
 	<li>
-		<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" style="font-family: monospace; font-size: 16px;">{{ .Date.Format "2006 Jan 02" }}</time> &ndash; 
+		<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" style="font-family: var(--sans-font); font-size: 16px;">{{ .Date.Format "2006 Jan 02" }}</time> &ndash; 
 		<a href="{{ .RelPermalink }}">{{ .Title }}</a>
 		{{- if .Param "authorsinlist" }}
 		{{- range .Param "authors" }} by {{ . }}{{ end -}}
