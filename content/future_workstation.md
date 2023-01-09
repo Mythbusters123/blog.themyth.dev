@@ -67,12 +67,16 @@ all for the future, not in the present day.
   - 16-32GB RAM depending on the workload
   - 1TB SSD
 - Framework Laptop ($1522 USD)
-  - Intel Core i7-1260p
-  - 1TB NVMe SSD
+  - Intel Core i7-1260P
+  - 2TB NVMe SSD
   - 32GB RAM
   - 1&times;USB-A Expansion Slot
   - 3&times;USB-C Expansion Slot
-  - 1&times;Ethernet Expansion Slot
+
+To add a linux drive to my Framework Laptop  I will purchase:
+
+- 1&times;2.5" SATA SSD Enclosure (~$25)
+- 1&times;Crucial MX500 2TB (~$130)
 
 Also related but not strictly a laptop/computer:
 
@@ -143,3 +147,6 @@ can get my work done in one way or another, even if it required getting a new
 computer, which wouldn't be the end of the world as some things can be done on
 both without a hitch, and having two (or three!) different operating systems
 never hurt anyone.
+
+*This was edited on January 8th, 2023 to reflect price changes and updated
+hardware choices that have been made*
