@@ -66,7 +66,7 @@ all for the future, not in the present day.
   - M2 Pro (10 core CPU, 14 Core GPU)
   - 16-32GB RAM depending on the workload
   - 1TB SSD
-- Framework Laptop ($1522 USD)
+- Framework Laptop ($1762 USD)
   - Intel Core i7-1260P
   - 2TB NVMe SSD
   - 32GB RAM
@@ -82,13 +82,14 @@ Also related but not strictly a laptop/computer:
 
 - Razer Core X ($325)
   - AMD Radeon RX-7700XT ($TBD)
-- ASUS TUF Gaming VG27AQ ($310)
 - OWC Thunderbolt 3 Dock ($300)
   - This would probably be shared between laptops
 
 This will total out to about $5500-$6000 (Yay credit card debt!) but considering
 how long it would not only last me but also the productivity curated by this
-setup would pay this off over time.
+setup would pay this off over time. I will be using my old monitors from my
+current PC, but that will probably also be upgraded to IPS 144hz monitors down
+the line.
 
 ### How Good Will Gaming Be? {.heading}
 
