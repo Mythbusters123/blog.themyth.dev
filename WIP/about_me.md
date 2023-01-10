@@ -12,17 +12,14 @@ For those wondering; my current computer's specifications are:
 - CPU: i5-8400
 - Memory: 16GB of G.Skill Trident-Z 3600MHz
 - GPU: MSI 1060 3GB
-- Storage: 250GB ADATA SSD, 2TB Toshiba HDD, 500GB Crucial MX, and another random 500GB SSD
+- Storage: 250GB ADATA SSD, 2TB Toshiba HDD, 500GB Crucial MX, and a 1TB SSD
 
 FYI: This is a pre-built meaning that everything not listed here is sub-par or
 even just plain bad quality. The case is nice but besides that I'm worried this
 PSU will blow at any moment.
 
-I am working on upgrading this, mostly to an all-AMD build, with a Framework
-Laptop and possibly Macbook. I currently run Arch Linux and Windows 10 LTSC
-cause I am a filthy pirate. When I get a non-operating-system-locked laptop,
-that laptop will run Artix Linux with DWM (my modified version based off of
-Luke Smith's version) that will dual-boot with Windows LTSC.
+My next setup will be a Framework Laptop with Artix Linux and dwl, with a
+MacBook Pro for macOS-only related purposes.
 
 The phone I currently use is an iPhone 12 base-model, however I will upgrade
 that in the following months to an iPhone 15 with 256GB of storage, unclear on
@@ -39,9 +36,22 @@ I live in the United States, as you could probably tell from the website's metad
 but I just want to make that clear just in case anyone says something along the
 lines of "Murica Moment LOL XD" which is utterly retarded.
 
+### Cool Stuff Not Made By Me {.heading}
+
 The list of software that I currently endorse will be linked below
 - [LARBS.xyz](https://larbs.xyz)
 - [LandChad.net](https://landchad.net)
+- [Suckless Software](https://suckless.org)
+- [Artix Linux](https://artixlinux.org)
+- [Arch Linux](https://archlinux.org)
+- [Hugo](https://gohugo.io)
+- [Blogit](https://pedantic.sotwware/git/blogit)
+- [dwl](https://github.com/djpohly/dwl)
+
+Things not software but I find cool:
+- [Framework Laptops](https://frame.work)
+- [Luke Smith](https://lukesmith.xyz)
+- [Vultr Hosting](https://vultr.com)
 
 If you are looking for contact you can either find me at
 - `myth@themyth.dev`
