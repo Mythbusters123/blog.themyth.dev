@@ -47,4 +47,20 @@ changing all my configs over, but that should only last a couple days, and once
 its all done I have a new shiny Wayland system that has double the features and
 is more secure and responsive. Overall, I think its a good trade.
 
+### Not all applications are created equally {.heading}
 
+While finding a Wayland compositor that looks like it will suit your specific
+needs is already a challenge, just wait until you try and search for your common
+applications that you need. Every linux user needs a terminal emulator, it is
+quite frankly the epitome of the Swiss Army Knives of the computing world,
+especially for \*nix operating systems. But what does this have to do with anything?
+Shouldn't all terminal emulators just magically work on Wayland?
+
+In a perfect world, yes, this would be true. However, certain projects don't
+like using frameworks such as GTK or QT, which gives them more control and less
+overhead. If you want to develop something that uses OpenGL to render, GTK or QT
+is frankly not an option, especially for the extreme amount of both overhead and
+dependency hell that comes with such frameworks. Certain terminal emulators do
+function with both X11 and Wayland and use OpenGL for rendering such as
+Alacritty, WezTerm, and Kitty. However all of these pale in comparison to St in
+terms of simpicity.
