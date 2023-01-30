@@ -78,12 +78,13 @@ takes the place of traditional cloud storage apps. It holds your calendar, files
 and you can even link it with OnlyOffice to act as your personal "Microsoft"
 Office suite.
 
-If you are one of those people who has a smart-home, then unRAID can also handle
-those functions, too. It has many integrations with top software because the
-community is the one who provides these images. And even if you can't find a
-container for an application you really want, chances are that someone has
-already created a container for it and you just need to add the link into unRAID
-for it to work properly.
+unRAID also lets you easily set up a VPN so that way you can access your home
+network from anywhere, without opening unsecure ports. Instead of opening your
+ssh port to the whole internet (please don't do that), you can install WireGuard
+on your NAS and treat it as a VPN. VPNs don't take up too much resources in terms
+of computing power, however you should know that the VPN is only as secure as
+your home network, but by default is demonstrably safer than a "free Wi-Fi" hotspot
+usually located at public spaces such as coffee shops or McDonald's.
 
-Another thing you can do if you're on your home network and you want to access
-your NAS from anywhere
+### Why YOU (yes, you) Need A NAS
+

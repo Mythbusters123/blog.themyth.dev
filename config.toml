@@ -4,3 +4,8 @@ title = "Myth's Blog"
 theme = 'lugo'
 datesinlist = true
 
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            # Render <sup> tags
+            unsafe = true

@@ -47,7 +47,7 @@ paragraph. What will also be included on the shopping list will be two
 Thunderbolt docks, along with a new 1440p/4K monitor with a 165Hz refresh rate
 that will be an IPS or VA panel for maximum color accuracy. I already do have
 two monitors, which are measly 75Hz and TN panel, but they work as monitors,
-which would most likely go on the MacBooks for maximum productivity.
+which would most likely go on the MacBook for maximum productivity.
 
 ### Wait, Who Could Need More Than One Laptop? {.heading}
 
@@ -62,9 +62,9 @@ extrapolated from data I can predict):
 Keep in mind that the setup I list here (except for probably the MacBooks) is
 all for the future, not in the present day.
 
-- MacBook Pro 14" ($2400-$2800 USD)
-  - M2 Pro (10 core CPU, 14 Core GPU)
-  - 16-32GB RAM depending on the workload
+- MacBook Pro 14" ($2900 USD)
+  - M2 Pro (12 core CPU, 19 Core GPU)
+  - 32GB RAM depending on the workload
   - 1TB SSD
 - Framework Laptop ($1762 USD)
   - Intel Core i7-1260P
@@ -149,5 +149,5 @@ computer, which wouldn't be the end of the world as some things can be done on
 both without a hitch, and having two (or three!) different operating systems
 never hurt anyone.
 
-*This was edited on January 8th, 2023 to reflect price changes and updated
+*This was edited on January 21st, 2023 to reflect price changes and updated
 hardware choices that have been made*
